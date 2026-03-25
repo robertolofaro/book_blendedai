@@ -1,0 +1,1 @@
+This is just an experiment discussed within the book, to show how, if you can assume that some material entered within the training of a model, a third party could actually elicit from a model an answer that retrieves that material.
