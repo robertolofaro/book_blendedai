@@ -1,4 +1,4 @@
-TurboBPR 2.5 was a software creaed by the DoD in the 1990s, as part of the Re-inventing the Government initiative, to consolidate existing BPR tools.
+TurboBPR 2.5 was a software created by the DoD in the 1990s, as part of the Re-inventing the Government initiative, to consolidate existing BPR tools.
 
 The contents of this directory are an experiment outlined within the book #BlendedAI02.
 
