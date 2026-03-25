@@ -1,0 +1,294 @@
+<svg viewBox="3.7134857177734375 -25.120274543762207 818.3805541992188 461.869384765625" xmlns="http://www.w3.org/2000/svg" style="background:white;" width="818.3805541992188" height="461.869384765625"><rect x="3.7134857177734375" y="-25.120274543762207" width="818.3805541992188" height="461.869384765625" fill="white"/><text x="400" y="30" text-anchor="middle" font-weight="bold" font-size="16">Software Sprint Analysis</text><line x1="60" y1="390" x2="640" y2="390" stroke="#eee"/>
+                        <text x="55" y="394" text-anchor="end" font-size="10" fill="#999">0</text><line x1="60" y1="322.5" x2="640" y2="322.5" stroke="#eee"/>
+                        <text x="55" y="326.5" text-anchor="end" font-size="10" fill="#999">18</text><line x1="60" y1="258.75" x2="640" y2="258.75" stroke="#eee"/>
+                        <text x="55" y="262.75" text-anchor="end" font-size="10" fill="#999">35</text><line x1="60" y1="191.25" x2="640" y2="191.25" stroke="#eee"/>
+                        <text x="55" y="195.25" text-anchor="end" font-size="10" fill="#999">53</text><line x1="60" y1="127.5" x2="640" y2="127.5" stroke="#eee"/>
+                        <text x="55" y="131.5" text-anchor="end" font-size="10" fill="#999">70</text><line x1="60" y1="60" x2="640" y2="60" stroke="#eee"/>
+                        <text x="55" y="64" text-anchor="end" font-size="10" fill="#999">88</text><polyline points="60,352.5 156.66666666666669,315 253.33333333333334,277.5 350,240 446.6666666666667,202.49999999999997 543.3333333333333,165.00000000000003 640,127.5" fill="none" stroke="#3498db" stroke-width="3"/>
+                <polyline points="60,360 156.66666666666669,333.75 253.33333333333334,307.5 350,258.75 446.6666666666667,210 543.3333333333333,183.75 640,157.5" fill="none" stroke="#27ae60" stroke-width="3"/>
+                <polyline points="60,345 156.66666666666669,296.25 253.33333333333334,258.75 350,221.25 446.6666666666667,172.5 543.3333333333333,127.5 640,90" fill="none" stroke="#e74c3c" stroke-width="3" stroke-dasharray="5,3"/><g font-size="12">
+            <rect x="660" y="100" width="15" height="15" fill="#3498db"/><text x="680" y="112">Planned Value (PV)</text>
+            <rect x="660" y="130" width="15" height="15" fill="#27ae60"/><text x="680" y="142">Earned Value (EV)</text>
+            <rect x="660" y="160" width="15" height="15" fill="#e74c3c" fill-opacity="0.5"/><text x="680" y="172">Actual Cost (AC)</text>
+        </g>
+                <line x1="60" y1="390" x2="640" y2="390" stroke="#333" stroke-width="2"/>
+                <line x1="60" y1="60" x2="60" y2="390" stroke="#333" stroke-width="2"/><style xmlns="http://www.w3.org/1999/xhtml">
+        :root {
+            --primary: #2c3e50;
+            --primary-light: #34495e;
+            --accent: #8e44ad;
+            --accent-hover: #9b59b6;
+            --success: #27ae60;
+            --success-hover: #229954;
+            --warning: #e67e22;
+            --warning-hover: #d35400;
+            --danger: #e74c3c;
+            --bg: #f4f7f6;
+            --surface: #ffffff;
+            --border: #ddd;
+            --text-primary: #2c3e50;
+            --text-secondary: #7f8c8d;
+            --shadow-sm: 0 2px 4px rgba(0,0,0,0.1);
+            --shadow-md: 0 4px 6px rgba(0,0,0,0.1);
+            --radius: 6px;
+            --transition: 0.2s ease;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text-primary);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        /* Header Styles */
+        header {
+            background: var(--primary);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: var(--shadow-sm);
+            flex-shrink: 0;
+        }
+
+        .brand {
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+
+        .brand span {
+            font-weight: 300;
+            opacity: 0.9;
+        }
+
+        /* Main Layout */
+        .main-container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+            gap: 0;
+        }
+
+        /* Pane Styles */
+        .pane {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .editor-pane {
+            width: 40%;
+            min-width: 320px;
+            max-width: 600px;
+            background: var(--surface);
+            border-inline-end: 2px solid var(--border);
+            padding: 1.25rem;
+            gap: 0.75rem;
+        }
+
+        .preview-pane {
+            flex: 1;
+            background: #fafafa;
+            padding: 1.25rem;
+        }
+
+        /* Form Elements */
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .form-label {
+            font-weight: 600;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.025em;
+        }
+
+        select, textarea, button {
+            font-family: inherit;
+            font-size: 0.9375rem;
+            border-radius: var(--radius);
+            border: 1px solid #bdc3c7;
+            transition: var(--transition);
+        }
+
+        select {
+            padding: 0.625rem 0.875rem;
+            background: var(--surface);
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+            padding-right: 2.5rem;
+        }
+
+        select:focus, textarea:focus, button:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        textarea {
+            flex: 1;
+            font-family: 'Consolas', 'Monaco', 'Fira Code', monospace;
+            font-size: 0.875rem;
+            line-height: 1.6;
+            padding: 0.875rem;
+            resize: none;
+            background: #f8f9fa;
+            border: 1px solid #ccc;
+        }
+
+        textarea:focus {
+            background: var(--surface);
+            border-color: var(--accent);
+        }
+
+        /* Button Styles */
+        .btn {
+            padding: 0.625rem 1rem;
+            border: none;
+            border-radius: var(--radius);
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            transition: var(--transition);
+        }
+
+        .btn-primary {
+            background: #3498db;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #2980b9;
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .btn-accent {
+            background: var(--accent);
+            color: white;
+            width: 100%;
+            padding: 0.875rem;
+            font-size: 1rem;
+        }
+
+        .btn-accent:hover {
+            background: var(--accent-hover);
+        }
+
+        .btn-success {
+            background: var(--success);
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: var(--success-hover);
+        }
+
+        .btn-warning {
+            background: var(--warning);
+            color: white;
+        }
+
+        .btn-warning:hover {
+            background: var(--warning-hover);
+        }
+
+        .controls {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        /* Output Area */
+        .output-wrapper {
+            background: var(--surface);
+            border: 1px solid #eee;
+            border-radius: 8px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: auto;
+            position: relative;
+        }
+
+        #render-area {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 1.5rem;
+            min-height: 400px;
+        }
+
+        #render-area svg {
+            max-width: 100%;
+            height: auto;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        /* Status &amp; Error Messages */
+        .status-message {
+            padding: 1rem;
+            border-radius: var(--radius);
+            font-size: 0.875rem;
+            display: none;
+        }
+
+        .status-message.error {
+            display: block;
+            background: #fdeaea;
+            color: var(--danger);
+            border: 1px solid #f5c6cb;
+        }
+
+        .status-message.loading {
+            display: block;
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+
+        /* Responsive */
+        @media (max-width: 968px) {
+            .main-container {
+                flex-direction: column;
+            }
+            .editor-pane {
+                width: 100%;
+                max-width: none;
+                max-height: 45vh;
+                border-inline-end: none;
+                border-block-end: 2px solid var(--border);
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            header, .editor-pane {
+                display: none;
+            }
+            .preview-pane {
+                width: 100%;
+                height: 100vh;
+            }
+        }
+    </style></svg>

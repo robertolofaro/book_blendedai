@@ -1,0 +1,218 @@
+<svg id="graph-1774458603036" width="724.2817993164062" xmlns="http://www.w3.org/2000/svg" style="max-width: 684.2817993164062px;" viewBox="-528.1130065917969 -61.0670166015625 724.2817993164062 620.134033203125" role="graphics-document document" aria-roledescription="ishikawa" height="620.134033203125"><rect x="-528.1130065917969" y="-61.0670166015625" width="724.2817993164062" height="620.134033203125" fill="white"/><style>#graph-1774458603036{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#333;}@keyframes edge-animation-frame{from{stroke-dashoffset:0;}}@keyframes dash{to{stroke-dashoffset:0;}}#graph-1774458603036 .edge-animation-slow{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 50s linear infinite;stroke-linecap:round;}#graph-1774458603036 .edge-animation-fast{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 20s linear infinite;stroke-linecap:round;}#graph-1774458603036 .error-icon{fill:#552222;}#graph-1774458603036 .error-text{fill:#552222;stroke:#552222;}#graph-1774458603036 .edge-thickness-normal{stroke-width:1px;}#graph-1774458603036 .edge-thickness-thick{stroke-width:3.5px;}#graph-1774458603036 .edge-pattern-solid{stroke-dasharray:0;}#graph-1774458603036 .edge-thickness-invisible{stroke-width:0;fill:none;}#graph-1774458603036 .edge-pattern-dashed{stroke-dasharray:3;}#graph-1774458603036 .edge-pattern-dotted{stroke-dasharray:2;}#graph-1774458603036 .marker{fill:#333333;stroke:#333333;}#graph-1774458603036 .marker.cross{stroke:#333333;}#graph-1774458603036 svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#graph-1774458603036 p{margin:0;}#graph-1774458603036 .ishikawa .ishikawa-spine,#graph-1774458603036 .ishikawa .ishikawa-branch,#graph-1774458603036 .ishikawa .ishikawa-sub-branch{stroke:#333333;stroke-width:2;fill:none;}#graph-1774458603036 .ishikawa .ishikawa-sub-branch{stroke-width:1;}#graph-1774458603036 .ishikawa .ishikawa-arrow{fill:#333333;}#graph-1774458603036 .ishikawa .ishikawa-head{fill:#ECECFF;stroke:#333333;stroke-width:2;}#graph-1774458603036 .ishikawa .ishikawa-label-box{fill:#ECECFF;stroke:#333333;stroke-width:2;}#graph-1774458603036 .ishikawa text{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#333;}#graph-1774458603036 .ishikawa .ishikawa-head-label{font-weight:600;text-anchor:middle;dominant-baseline:middle;font-size:14px;}#graph-1774458603036 .ishikawa .ishikawa-label{text-anchor:end;}#graph-1774458603036 .ishikawa .ishikawa-label.cause{text-anchor:middle;dominant-baseline:middle;}#graph-1774458603036 .ishikawa .ishikawa-label.align{text-anchor:end;dominant-baseline:middle;}#graph-1774458603036 .ishikawa .ishikawa-label.up{dominant-baseline:baseline;}#graph-1774458603036 .ishikawa .ishikawa-label.down{dominant-baseline:hanging;}#graph-1774458603036 :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}</style><g/><g class="ishikawa"><defs><marker id="ishikawa-arrow-graph-1774458603036" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 10 0 L 0 5 L 10 10 Z" class="ishikawa-arrow"/></marker></defs><line class="ishikawa-spine" x1="-488.1130065917969" y1="250" x2="0" y2="250"/><g class="ishikawa-head-group" transform="translate(0,250)"><path class="ishikawa-head" d="M 0 -69.5999984741211 L 0 69.5999984741211 Q 312.3375 0 0 -69.5999984741211 Z"/><text class="ishikawa-head-label" text-anchor="start" x="0" y="-16.8" transform="translate(68.0703125,1)"><tspan x="0" dy="0">Strategic</tspan><tspan x="0" dy="16.8">Initiative</tspan><tspan x="0" dy="16.8">Underperformance</tspan></text></g><g class="ishikawa-pair"><line class="ishikawa-branch" x1="-20" y1="250" x2="-54.79327524001642" y2="2.432982814607442" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><g class="ishikawa-label-group"><rect class="ishikawa-label-box" x="-117.16046142578125" y="-21.0670166015625" width="125" height="23"/><text class="ishikawa-label cause" text-anchor="middle" x="-54.79327524001642" y="-8.567017185392558"><tspan x="-54.79327524001642" dy="0">Governance</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-28.698318810004107" y1="188.10824570365185" x2="-58.69831881000411" y2="188.10824570365185" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-58.69831881000411" y="188.10824570365185"><tspan x="-58.69831881000411" dy="0">Slow escalation</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-37.39663762000821" y1="126.21649140730372" x2="-67.3966376200082" y2="126.21649140730372" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-67.3966376200082" y="117.81649140730372"><tspan x="-67.3966376200082" dy="0">Weak decision</tspan><tspan x="-67.3966376200082" dy="16.8">rights</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-46.09495643001231" y1="64.3247371109556" x2="-76.0949564300123" y2="64.3247371109556" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-76.0949564300123" y="55.9247371109556"><tspan x="-76.0949564300123" dy="0">Unclear</tspan><tspan x="-76.0949564300123" dy="16.8">ownership</tspan></text></g><line class="ishikawa-branch" x1="-20" y1="250" x2="-54.79327524001642" y2="497.56701718539256" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><g class="ishikawa-label-group"><rect class="ishikawa-label-box" x="-104.62139892578125" y="496.0670166015625" width="99.765625" height="23"/><text class="ishikawa-label cause" text-anchor="middle" x="-54.79327524001642" y="508.56701718539256"><tspan x="-54.79327524001642" dy="0">Strategy</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-28.698318810004107" y1="311.89175429634815" x2="-58.69831881000411" y2="311.89175429634815" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-58.69831881000411" y="303.4917542963482"><tspan x="-58.69831881000411" dy="0">Misaligned</tspan><tspan x="-58.69831881000411" dy="16.8">objectives</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-37.396637620008214" y1="373.7835085926963" x2="-67.39663762000822" y2="373.7835085926963" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-67.39663762000822" y="365.38350859269633"><tspan x="-67.39663762000822" dy="0">Unrealistic</tspan><tspan x="-67.39663762000822" dy="16.8">targets</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-46.09495643001231" y1="435.6752628890444" x2="-76.0949564300123" y2="435.6752628890444" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-76.0949564300123" y="427.2752628890444"><tspan x="-76.0949564300123" dy="0">No</tspan><tspan x="-76.0949564300123" dy="16.8">prioritization</tspan></text></g></g><g class="ishikawa-pair"><line class="ishikawa-branch" x1="-170.29808044433594" y1="250" x2="-205.09135568435235" y2="2.432982814607442" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><g class="ishikawa-label-group"><rect class="ishikawa-label-box" x="-260.2007293701172" y="-21.0670166015625" width="110.21875" height="23"/><text class="ishikawa-label cause" text-anchor="middle" x="-205.09135568435235" y="-8.567017185392558"><tspan x="-205.09135568435235" dy="0">Execution</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-178.99639925434005" y1="188.10824570365185" x2="-208.99639925434005" y2="188.10824570365185" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-208.99639925434005" y="188.10824570365185"><tspan x="-208.99639925434005" dy="0">Weak tracking</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-187.69471806434416" y1="126.21649140730372" x2="-217.69471806434416" y2="126.21649140730372" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-217.69471806434416" y="117.81649140730372"><tspan x="-217.69471806434416" dy="0">Lack of</tspan><tspan x="-217.69471806434416" dy="16.8">milestones</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-196.39303687434824" y1="64.3247371109556" x2="-226.39303687434824" y2="64.3247371109556" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-226.39303687434824" y="55.9247371109556"><tspan x="-226.39303687434824" dy="0">Poor program</tspan><tspan x="-226.39303687434824" dy="16.8">management</tspan></text></g><line class="ishikawa-branch" x1="-170.29808044433594" y1="250" x2="-205.09135568435235" y2="497.56701718539256" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><g class="ishikawa-label-group"><rect class="ishikawa-label-box" x="-249.0132293701172" y="496.0670166015625" width="88.1171875" height="23"/><text class="ishikawa-label cause" text-anchor="middle" x="-205.09135568435235" y="508.56701718539256"><tspan x="-205.09135568435235" dy="0">People</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-178.99639925434005" y1="311.89175429634815" x2="-208.99639925434005" y2="311.89175429634815" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-208.99639925434005" y="311.89175429634815"><tspan x="-208.99639925434005" dy="0">Skills gap</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-187.69471806434416" y1="373.7835085926963" x2="-217.69471806434416" y2="373.7835085926963" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-217.69471806434416" y="365.38350859269633"><tspan x="-217.69471806434416" dy="0">Resistance to</tspan><tspan x="-217.69471806434416" dy="16.8">change</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-196.39303687434824" y1="435.6752628890444" x2="-226.39303687434824" y2="435.6752628890444" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-226.39303687434824" y="427.2752628890444"><tspan x="-226.39303687434824" dy="0">Leadership</tspan><tspan x="-226.39303687434824" dy="16.8">misalignment</tspan></text></g></g><g class="ishikawa-pair"><line class="ishikawa-branch" x1="-322.4399108886719" y1="250" x2="-357.2331861286883" y2="2.432982814607442" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><g class="ishikawa-label-group"><rect class="ishikawa-label-box" x="-416.8581848144531" y="-21.0670166015625" width="119.3515625" height="23"/><text class="ishikawa-label cause" text-anchor="middle" x="-357.2331861286883" y="-8.567017185392558"><tspan x="-357.2331861286883" dy="0">Technology</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-331.138229698676" y1="188.10824570365185" x2="-361.138229698676" y2="188.10824570365185" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-361.138229698676" y="179.70824570365184"><tspan x="-361.138229698676" dy="0">Tool</tspan><tspan x="-361.138229698676" dy="16.8">fragmentation</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-339.8365485086801" y1="126.21649140730372" x2="-369.8365485086801" y2="126.21649140730372" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-369.8365485086801" y="117.81649140730372"><tspan x="-369.8365485086801" dy="0">Integration</tspan><tspan x="-369.8365485086801" dy="16.8">issues</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-348.5348673186842" y1="64.3247371109556" x2="-378.5348673186842" y2="64.3247371109556" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-378.5348673186842" y="64.3247371109556"><tspan x="-378.5348673186842" dy="0">Legacy systems</tspan></text></g><line class="ishikawa-branch" x1="-322.4399108886719" y1="250" x2="-357.2331861286883" y2="497.56701718539256" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><g class="ishikawa-label-group"><rect class="ishikawa-label-box" x="-393.7175598144531" y="496.0670166015625" width="72.96875" height="23"/><text class="ishikawa-label cause" text-anchor="middle" x="-357.2331861286883" y="508.56701718539256"><tspan x="-357.2331861286883" dy="0">Data</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-331.138229698676" y1="311.89175429634815" x2="-361.138229698676" y2="311.89175429634815" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-361.138229698676" y="303.4917542963482"><tspan x="-361.138229698676" dy="0">Poor data</tspan><tspan x="-361.138229698676" dy="16.8">quality</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-339.8365485086801" y1="373.7835085926963" x2="-369.8365485086801" y2="373.7835085926963" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-369.8365485086801" y="373.7835085926963"><tspan x="-369.8365485086801" dy="0">Lack of KPIs</tspan></text></g><g class="ishikawa-sub-group"><line class="ishikawa-sub-branch" x1="-348.5348673186842" y1="435.6752628890444" x2="-378.5348673186842" y2="435.6752628890444" marker-start="url(#ishikawa-arrow-graph-1774458603036)"/><text class="ishikawa-label align" text-anchor="end" x="-378.5348673186842" y="427.2752628890444"><tspan x="-378.5348673186842" dy="0">Inconsistent</tspan><tspan x="-378.5348673186842" dy="16.8">reporting</tspan></text></g></g></g><style xmlns="http://www.w3.org/1999/xhtml" type="text/css">
+        :root {
+            --primary: gray;
+            --primary-light: black;
+            --accent: gray;
+            --accent-hover: black;
+            --success: gray;
+            --success-hover: black;
+            --warning: gray;
+            --warning-hover: black;
+            --danger: #e74c3c;
+            --bg: #f4f7f6;
+            --surface: #ffffff;
+            --border: #ddd;
+            --text-primary: #2c3e50;
+            --text-secondary: #7f8c8d;
+            --shadow-sm: 0 2px 4px rgba(0,0,0,0.1);
+            --shadow-md: 0 4px 6px rgba(0,0,0,0.1);
+            --radius: 6px;
+            --transition: 0.2s ease;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Form Elements */
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .form-label {
+            font-weight: 600;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.025em;
+        }
+
+        select, textarea, button {
+            font-family: inherit;
+            font-size: 0.9375rem;
+            border-radius: var(--radius);
+            border: 1px solid #bdc3c7;
+            transition: var(--transition);
+        }
+
+        select {
+            padding: 0.625rem 0.875rem;
+            background: var(--surface);
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+            padding-right: 2.5rem;
+        }
+
+        select:focus, textarea:focus, button:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        textarea {
+            flex: 1;
+            font-family: 'Consolas', 'Monaco', 'Fira Code', monospace;
+            font-size: 0.875rem;
+            line-height: 1.6;
+            padding: 0.875rem;
+            resize: vertical; 
+            background: #f8f9fa;
+            border: 1px solid #ccc;
+        }
+
+        textarea:focus {
+            background: var(--surface);
+            border-color: var(--accent);
+        }
+
+        /* Button Styles */
+        .btn {
+            padding: 0.625rem 1rem;
+            border: none;
+            border-radius: var(--radius);
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            transition: var(--transition);
+        }
+
+        .btn-primary {
+            background: grey;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: black;
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .btn-accent {
+            background: var(--accent);
+            color: white;
+            width: 100%;
+            padding: 0.875rem;
+            font-size: 1rem;
+        }
+
+        .btn-accent:hover {
+            background: var(--accent-hover); 
+            color: white;
+        }
+
+        .btn-success {
+            background: var(--success);
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: var(--success-hover);
+        }
+
+        .btn-warning {
+            background: var(--warning);
+            color: white;
+        }
+
+        .btn-warning:hover {
+            background: var(--warning-hover);
+        }
+
+        .controls {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        /* Output Area */
+        .output-wrapper {
+            background: var(--surface);
+            border: 1px solid #eee;
+            border-radius: 8px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: auto;
+            position: relative;
+        }
+
+        #render-area {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 1.5rem;
+            min-height: 400px;
+        }
+
+        #render-area svg {
+            max-width: 100%;
+            height: auto;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        /* Status &amp; Error Messages */
+        .status-message {
+            padding: 1rem;
+            border-radius: var(--radius);
+            font-size: 0.875rem;
+            display: none;
+        }
+
+        .status-message.error {
+            display: block;
+            background: #fdeaea;
+            color: var(--danger);
+            border: 1px solid #f5c6cb;
+        }
+
+        .status-message.loading {
+            display: block;
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+
+        /* Responsive */
+        @media (max-width: 968px) {
+            .main-container {
+                flex-direction: column;
+            }
+            .editor-pane {
+                width: 100%;
+                max-width: none;
+                max-height: 45vh;
+                border-inline-end: none;
+                border-block-end: 2px solid var(--border);
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            header, .editor-pane {
+                display: none;
+            }
+            .preview-pane {
+                width: 100%;
+                height: 100vh;
+            }
+        }
+    </style><style>#graph-1774458603036{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#333;}@keyframes edge-animation-frame{from{stroke-dashoffset:0;}}@keyframes dash{to{stroke-dashoffset:0;}}#graph-1774458603036 .edge-animation-slow{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 50s linear infinite;stroke-linecap:round;}#graph-1774458603036 .edge-animation-fast{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 20s linear infinite;stroke-linecap:round;}#graph-1774458603036 .error-icon{fill:#552222;}#graph-1774458603036 .error-text{fill:#552222;stroke:#552222;}#graph-1774458603036 .edge-thickness-normal{stroke-width:1px;}#graph-1774458603036 .edge-thickness-thick{stroke-width:3.5px;}#graph-1774458603036 .edge-pattern-solid{stroke-dasharray:0;}#graph-1774458603036 .edge-thickness-invisible{stroke-width:0;fill:none;}#graph-1774458603036 .edge-pattern-dashed{stroke-dasharray:3;}#graph-1774458603036 .edge-pattern-dotted{stroke-dasharray:2;}#graph-1774458603036 .marker{fill:#333333;stroke:#333333;}#graph-1774458603036 .marker.cross{stroke:#333333;}#graph-1774458603036 svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#graph-1774458603036 p{margin:0;}#graph-1774458603036 .ishikawa .ishikawa-spine,#graph-1774458603036 .ishikawa .ishikawa-branch,#graph-1774458603036 .ishikawa .ishikawa-sub-branch{stroke:#333333;stroke-width:2;fill:none;}#graph-1774458603036 .ishikawa .ishikawa-sub-branch{stroke-width:1;}#graph-1774458603036 .ishikawa .ishikawa-arrow{fill:#333333;}#graph-1774458603036 .ishikawa .ishikawa-head{fill:#ECECFF;stroke:#333333;stroke-width:2;}#graph-1774458603036 .ishikawa .ishikawa-label-box{fill:#ECECFF;stroke:#333333;stroke-width:2;}#graph-1774458603036 .ishikawa text{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#333;}#graph-1774458603036 .ishikawa .ishikawa-head-label{font-weight:600;text-anchor:middle;dominant-baseline:middle;font-size:14px;}#graph-1774458603036 .ishikawa .ishikawa-label{text-anchor:end;}#graph-1774458603036 .ishikawa .ishikawa-label.cause{text-anchor:middle;dominant-baseline:middle;}#graph-1774458603036 .ishikawa .ishikawa-label.align{text-anchor:end;dominant-baseline:middle;}#graph-1774458603036 .ishikawa .ishikawa-label.up{dominant-baseline:baseline;}#graph-1774458603036 .ishikawa .ishikawa-label.down{dominant-baseline:hanging;}#graph-1774458603036 :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}</style></svg>

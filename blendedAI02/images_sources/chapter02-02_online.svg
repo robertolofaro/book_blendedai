@@ -1,0 +1,281 @@
+<svg id="graph-1774347374553" width="454.5647888183594" xmlns="http://www.w3.org/2000/svg" class="mindmapDiagram" style="max-width: 394.5647888183594px;" viewBox="-25 -25 454.5647888183594 320.6708221435547" role="graphics-document document" aria-roledescription="mindmap" height="320.6708221435547"><rect x="-25" y="-25" width="454.5647888183594" height="320.6708221435547" fill="white"/><style>#graph-1774347374553{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#333;}@keyframes edge-animation-frame{from{stroke-dashoffset:0;}}@keyframes dash{to{stroke-dashoffset:0;}}#graph-1774347374553 .edge-animation-slow{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 50s linear infinite;stroke-linecap:round;}#graph-1774347374553 .edge-animation-fast{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 20s linear infinite;stroke-linecap:round;}#graph-1774347374553 .error-icon{fill:#552222;}#graph-1774347374553 .error-text{fill:#552222;stroke:#552222;}#graph-1774347374553 .edge-thickness-normal{stroke-width:1px;}#graph-1774347374553 .edge-thickness-thick{stroke-width:3.5px;}#graph-1774347374553 .edge-pattern-solid{stroke-dasharray:0;}#graph-1774347374553 .edge-thickness-invisible{stroke-width:0;fill:none;}#graph-1774347374553 .edge-pattern-dashed{stroke-dasharray:3;}#graph-1774347374553 .edge-pattern-dotted{stroke-dasharray:2;}#graph-1774347374553 .marker{fill:#333333;stroke:#333333;}#graph-1774347374553 .marker.cross{stroke:#333333;}#graph-1774347374553 svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#graph-1774347374553 p{margin:0;}#graph-1774347374553 .edge{stroke-width:3;}#graph-1774347374553 .section--1 rect,#graph-1774347374553 .section--1 path,#graph-1774347374553 .section--1 circle,#graph-1774347374553 .section--1 polygon,#graph-1774347374553 .section--1 path{fill:hsl(240, 100%, 76.2745098039%);}#graph-1774347374553 .section--1 text{fill:#ffffff;}#graph-1774347374553 .node-icon--1{font-size:40px;color:#ffffff;}#graph-1774347374553 .section-edge--1{stroke:hsl(240, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth--1{stroke-width:17;}#graph-1774347374553 .section--1 line{stroke:hsl(60, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-0 rect,#graph-1774347374553 .section-0 path,#graph-1774347374553 .section-0 circle,#graph-1774347374553 .section-0 polygon,#graph-1774347374553 .section-0 path{fill:hsl(60, 100%, 73.5294117647%);}#graph-1774347374553 .section-0 text{fill:black;}#graph-1774347374553 .node-icon-0{font-size:40px;color:black;}#graph-1774347374553 .section-edge-0{stroke:hsl(60, 100%, 73.5294117647%);}#graph-1774347374553 .edge-depth-0{stroke-width:14;}#graph-1774347374553 .section-0 line{stroke:hsl(240, 100%, 83.5294117647%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-1 rect,#graph-1774347374553 .section-1 path,#graph-1774347374553 .section-1 circle,#graph-1774347374553 .section-1 polygon,#graph-1774347374553 .section-1 path{fill:hsl(80, 100%, 76.2745098039%);}#graph-1774347374553 .section-1 text{fill:black;}#graph-1774347374553 .node-icon-1{font-size:40px;color:black;}#graph-1774347374553 .section-edge-1{stroke:hsl(80, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-1{stroke-width:11;}#graph-1774347374553 .section-1 line{stroke:hsl(260, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-2 rect,#graph-1774347374553 .section-2 path,#graph-1774347374553 .section-2 circle,#graph-1774347374553 .section-2 polygon,#graph-1774347374553 .section-2 path{fill:hsl(270, 100%, 76.2745098039%);}#graph-1774347374553 .section-2 text{fill:#ffffff;}#graph-1774347374553 .node-icon-2{font-size:40px;color:#ffffff;}#graph-1774347374553 .section-edge-2{stroke:hsl(270, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-2{stroke-width:8;}#graph-1774347374553 .section-2 line{stroke:hsl(90, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-3 rect,#graph-1774347374553 .section-3 path,#graph-1774347374553 .section-3 circle,#graph-1774347374553 .section-3 polygon,#graph-1774347374553 .section-3 path{fill:hsl(300, 100%, 76.2745098039%);}#graph-1774347374553 .section-3 text{fill:black;}#graph-1774347374553 .node-icon-3{font-size:40px;color:black;}#graph-1774347374553 .section-edge-3{stroke:hsl(300, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-3{stroke-width:5;}#graph-1774347374553 .section-3 line{stroke:hsl(120, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-4 rect,#graph-1774347374553 .section-4 path,#graph-1774347374553 .section-4 circle,#graph-1774347374553 .section-4 polygon,#graph-1774347374553 .section-4 path{fill:hsl(330, 100%, 76.2745098039%);}#graph-1774347374553 .section-4 text{fill:black;}#graph-1774347374553 .node-icon-4{font-size:40px;color:black;}#graph-1774347374553 .section-edge-4{stroke:hsl(330, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-4{stroke-width:2;}#graph-1774347374553 .section-4 line{stroke:hsl(150, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-5 rect,#graph-1774347374553 .section-5 path,#graph-1774347374553 .section-5 circle,#graph-1774347374553 .section-5 polygon,#graph-1774347374553 .section-5 path{fill:hsl(0, 100%, 76.2745098039%);}#graph-1774347374553 .section-5 text{fill:black;}#graph-1774347374553 .node-icon-5{font-size:40px;color:black;}#graph-1774347374553 .section-edge-5{stroke:hsl(0, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-5{stroke-width:-1;}#graph-1774347374553 .section-5 line{stroke:hsl(180, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-6 rect,#graph-1774347374553 .section-6 path,#graph-1774347374553 .section-6 circle,#graph-1774347374553 .section-6 polygon,#graph-1774347374553 .section-6 path{fill:hsl(30, 100%, 76.2745098039%);}#graph-1774347374553 .section-6 text{fill:black;}#graph-1774347374553 .node-icon-6{font-size:40px;color:black;}#graph-1774347374553 .section-edge-6{stroke:hsl(30, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-6{stroke-width:-4;}#graph-1774347374553 .section-6 line{stroke:hsl(210, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-7 rect,#graph-1774347374553 .section-7 path,#graph-1774347374553 .section-7 circle,#graph-1774347374553 .section-7 polygon,#graph-1774347374553 .section-7 path{fill:hsl(90, 100%, 76.2745098039%);}#graph-1774347374553 .section-7 text{fill:black;}#graph-1774347374553 .node-icon-7{font-size:40px;color:black;}#graph-1774347374553 .section-edge-7{stroke:hsl(90, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-7{stroke-width:-7;}#graph-1774347374553 .section-7 line{stroke:hsl(270, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-8 rect,#graph-1774347374553 .section-8 path,#graph-1774347374553 .section-8 circle,#graph-1774347374553 .section-8 polygon,#graph-1774347374553 .section-8 path{fill:hsl(150, 100%, 76.2745098039%);}#graph-1774347374553 .section-8 text{fill:black;}#graph-1774347374553 .node-icon-8{font-size:40px;color:black;}#graph-1774347374553 .section-edge-8{stroke:hsl(150, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-8{stroke-width:-10;}#graph-1774347374553 .section-8 line{stroke:hsl(330, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-9 rect,#graph-1774347374553 .section-9 path,#graph-1774347374553 .section-9 circle,#graph-1774347374553 .section-9 polygon,#graph-1774347374553 .section-9 path{fill:hsl(180, 100%, 76.2745098039%);}#graph-1774347374553 .section-9 text{fill:black;}#graph-1774347374553 .node-icon-9{font-size:40px;color:black;}#graph-1774347374553 .section-edge-9{stroke:hsl(180, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-9{stroke-width:-13;}#graph-1774347374553 .section-9 line{stroke:hsl(0, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-10 rect,#graph-1774347374553 .section-10 path,#graph-1774347374553 .section-10 circle,#graph-1774347374553 .section-10 polygon,#graph-1774347374553 .section-10 path{fill:hsl(210, 100%, 76.2745098039%);}#graph-1774347374553 .section-10 text{fill:black;}#graph-1774347374553 .node-icon-10{font-size:40px;color:black;}#graph-1774347374553 .section-edge-10{stroke:hsl(210, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-10{stroke-width:-16;}#graph-1774347374553 .section-10 line{stroke:hsl(30, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-root rect,#graph-1774347374553 .section-root path,#graph-1774347374553 .section-root circle,#graph-1774347374553 .section-root polygon{fill:hsl(240, 100%, 46.2745098039%);}#graph-1774347374553 .section-root text{fill:#ffffff;}#graph-1774347374553 .section-root span{color:#ffffff;}#graph-1774347374553 .section-2 span{color:#ffffff;}#graph-1774347374553 .icon-container{height:100%;display:flex;justify-content:center;align-items:center;}#graph-1774347374553 .edge{fill:none;}#graph-1774347374553 .mindmap-node-label{dy:1em;alignment-baseline:middle;text-anchor:middle;dominant-baseline:middle;text-align:center;}#graph-1774347374553 :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}</style><g><marker id="graph-1774347374553_mindmap-pointEnd" class="marker mindmap" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowMarkerPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker><marker id="graph-1774347374553_mindmap-pointStart" class="marker mindmap" viewBox="0 0 10 10" refX="4.5" refY="5" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 5 L 10 10 L 10 0 z" class="arrowMarkerPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker><g class="subgraphs"/><g class="edgePaths"><path d="M221.609,125.372L228.078,120.541C234.547,115.71,247.486,106.048,260.424,96.386C273.362,86.723,286.301,77.061,292.77,72.23L299.239,67.399" id="edge_0_1" class="edge-thickness-normal edge-pattern-solid edge section-edge-0 edge-depth-1" style="undefined;;;undefined" data-edge="true" data-et="edge" data-id="edge_0_1" data-points="W3sieCI6MjIxLjYwOTA2NjUzMDk2MTk0LCJ5IjoxMjUuMzcyMDIxOTA0MjIwMzZ9LHsieCI6MjYwLjQyNDA3MDU4NDE3MDIsInkiOjk2LjM4NTUyMTMwNjUyMDF9LHsieCI6Mjk5LjIzOTA3NDYzNzM3ODQsInkiOjY3LjM5OTAyMDcwODgxOTg1fV0="/><path d="M224.556,135.364L233.348,135.962C242.14,136.559,259.724,137.754,277.308,138.949C294.892,140.144,312.476,141.338,321.268,141.936L330.06,142.533" id="edge_0_2" class="edge-thickness-normal edge-pattern-solid edge section-edge-1 edge-depth-1" style="undefined;;;undefined" data-edge="true" data-et="edge" data-id="edge_0_2" data-points="W3sieCI6MjI0LjU1NjA0MTM2OTYxNzEzLCJ5IjoxMzUuMzY0MTgxNzg5MzIxMTJ9LHsieCI6Mjc3LjMwODEzMzEyNTEyOTMsInkiOjEzOC45NDg2NzEyNTc5OTEzNX0seyJ4IjozMzAuMDYwMjI0ODgwNjQxNSwieSI6MTQyLjUzMzE2MDcyNjY2MTU4fV0="/><path d="M195.286,129.833L186.013,126.907C176.739,123.981,158.193,118.129,139.647,112.277C121.101,106.424,102.554,100.572,93.281,97.646L84.008,94.72" id="edge_0_3" class="edge-thickness-normal edge-pattern-solid edge section-edge-2 edge-depth-1" style="undefined;;;undefined" data-edge="true" data-et="edge" data-id="edge_0_3" data-points="W3sieCI6MTk1LjI4NTgyODY4MjU4OTU3LCJ5IjoxMjkuODMzNDIxMjYwMjU5OH0seyJ4IjoxMzkuNjQ2ODM3ODIwMDAxNzQsInkiOjExMi4yNzY1MTkzMjM3MTI5OX0seyJ4Ijo4NC4wMDc4NDY5NTc0MTM4OSwieSI6OTQuNzE5NjE3Mzg3MTY2MTh9XQ=="/><path d="M195.396,139.198L186.831,142.125C178.265,145.052,161.133,150.906,144.001,156.76C126.869,162.615,109.738,168.469,101.172,171.396L92.606,174.323" id="edge_0_4" class="edge-thickness-normal edge-pattern-solid edge section-edge-3 edge-depth-1" style="undefined;;;undefined" data-edge="true" data-et="edge" data-id="edge_0_4" data-points="W3sieCI6MTk1LjM5NjQxNTA3ODY3NTgzLCJ5IjoxMzkuMTk3Njk0OTY1Mzc3MzR9LHsieCI6MTQ0LjAwMTE2MjgxMzU0ODQzLCJ5IjoxNTYuNzYwNDU4NzE1ODQ5NX0seyJ4Ijo5Mi42MDU5MTA1NDg0MjEwNCwieSI6MTc0LjMyMzIyMjQ2NjMyMTY1fV0="/><path d="M205.033,148.638L203.02,154.95C201.007,161.262,196.981,173.885,192.955,186.509C188.929,199.133,184.903,211.756,182.89,218.068L180.877,224.38" id="edge_0_5" class="edge-thickness-normal edge-pattern-solid edge section-edge-4 edge-depth-1" style="undefined;;;undefined" data-edge="true" data-et="edge" data-id="edge_0_5" data-points="W3sieCI6MjA1LjAzMjgwMzc1MDYzMDQ4LCJ5IjoxNDguNjM4MDgwMjQ5ODkxNjN9LHsieCI6MTkyLjk1NDY2MjU2NTYyMzgzLCJ5IjoxODYuNTA5MDQ5MjIwOTgzfSx7IngiOjE4MC44NzY1MjEzODA2MTcyLCJ5IjoyMjQuMzgwMDE4MTkyMDc0Mzd9XQ=="/><path d="M220.056,145.093L225.737,150.926C231.418,156.758,242.779,168.424,254.14,180.089C265.502,191.754,276.863,203.419,282.544,209.252L288.225,215.085" id="edge_0_6" class="edge-thickness-normal edge-pattern-solid edge section-edge-5 edge-depth-1" style="undefined;;;undefined" data-edge="true" data-et="edge" data-id="edge_0_6" data-points="W3sieCI6MjIwLjA1NjI2MTExMDY3NDQsInkiOjE0NS4wOTI5MjY4Mjg2NjYyfSx7IngiOjI1NC4xNDA0NzgzNjMzNDUyLCJ5IjoxODAuMDg4ODIzOTYxNTI0Nn0seyJ4IjoyODguMjI0Njk1NjE2MDE2LCJ5IjoyMTUuMDg0NzIxMDk0MzgzfV0="/><path d="M204.538,120.224L202.329,114.049C200.12,107.874,195.702,95.524,191.284,83.174C186.866,70.824,182.448,58.474,180.239,52.299L178.03,46.124" id="edge_0_7" class="edge-thickness-normal edge-pattern-solid edge section-edge-6 edge-depth-1" style="undefined;;;undefined" data-edge="true" data-et="edge" data-id="edge_0_7" data-points="W3sieCI6MjA0LjUzODE3NjI5OTIxMzc3LCJ5IjoxMjAuMjIzNzcxNzQ3Mjk3ODJ9LHsieCI6MTkxLjI4NDMwNzkzNDE5OTksInkiOjgzLjE3MzY0MDQ5ODM5NTY4fSx7IngiOjE3OC4wMzA0Mzk1NjkxODYsInkiOjQ2LjEyMzUwOTI0OTQ5MzU1fV0="/></g><g class="edgeLabels"><g class="edgeLabel"><g class="label" data-id="edge_0_1" transform="translate(0, 0)"><text y="-10.1" text-anchor="middle"><tspan class="text-outer-tspan row" x="0" y="-0.1em" dy="1.1em" text-anchor="middle"/></text></g></g><g><rect class="background" style="stroke: none"/></g><g class="edgeLabel"><g class="label" data-id="edge_0_2" transform="translate(0, 0)"><text y="-10.1" text-anchor="middle"><tspan class="text-outer-tspan row" x="0" y="-0.1em" dy="1.1em" text-anchor="middle"/></text></g></g><g><rect class="background" style="stroke: none"/></g><g class="edgeLabel"><g class="label" data-id="edge_0_3" transform="translate(0, 0)"><text y="-10.1" text-anchor="middle"><tspan class="text-outer-tspan row" x="0" y="-0.1em" dy="1.1em" text-anchor="middle"/></text></g></g><g><rect class="background" style="stroke: none"/></g><g class="edgeLabel"><g class="label" data-id="edge_0_4" transform="translate(0, 0)"><text y="-10.1" text-anchor="middle"><tspan class="text-outer-tspan row" x="0" y="-0.1em" dy="1.1em" text-anchor="middle"/></text></g></g><g><rect class="background" style="stroke: none"/></g><g class="edgeLabel"><g class="label" data-id="edge_0_5" transform="translate(0, 0)"><text y="-10.1" text-anchor="middle"><tspan class="text-outer-tspan row" x="0" y="-0.1em" dy="1.1em" text-anchor="middle"/></text></g></g><g><rect class="background" style="stroke: none"/></g><g class="edgeLabel"><g class="label" data-id="edge_0_6" transform="translate(0, 0)"><text y="-10.1" text-anchor="middle"><tspan class="text-outer-tspan row" x="0" y="-0.1em" dy="1.1em" text-anchor="middle"/></text></g></g><g><rect class="background" style="stroke: none"/></g><g class="edgeLabel"><g class="label" data-id="edge_0_7" transform="translate(0, 0)"><text y="-10.1" text-anchor="middle"><tspan class="text-outer-tspan row" x="0" y="-0.1em" dy="1.1em" text-anchor="middle"/></text></g></g><g><rect class="background" style="stroke: none"/></g></g><g class="nodes"><g class="node mindmap-node section-root section--1" id="node_0" transform="translate(209.59055064000347, 134.34728099679137)"><circle class="basic label-container" style="" r="33.140625" cx="0" cy="0"/><g class="label" style="" transform="translate(-23.140625, -12)"><rect/><foreignObject width="46.28125" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: table-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><span class="nodeLabel"><p>Online</p></span></div></foreignObject></g></g><g class="node mindmap-node section-0" id="node_1" transform="translate(311.2575905283369, 58.42376161624884)"><path id="node-1" class="node-bkg node-0" style="" d="M-51.046875 12&#10;    v-24&#10;    q0,-5 5,-5&#10;    h92.09375&#10;    q5,0 5,5&#10;    v24&#10;    q0,5 -5,5&#10;    h-92.09375&#10;    q-5,0 -5,-5&#10;    Z"/><line class="node-line-" x1="-51.046875" y1="17" x2="51.046875" y2="17"/><g class="label" style="" transform="translate(-31.046875, -12)"><rect/><foreignObject width="62.09375" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: table-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><span class="nodeLabel"><p>ChatGPT</p></span></div></foreignObject></g></g><g class="node mindmap-node section-1" id="node_2" transform="translate(345.02571561025513, 143.55006151919133)"><path id="node-2" class="node-bkg node-0" style="" d="M-44.5390625 12&#10;    v-24&#10;    q0,-5 5,-5&#10;    h79.078125&#10;    q5,0 5,5&#10;    v24&#10;    q0,5 -5,5&#10;    h-79.078125&#10;    q-5,0 -5,-5&#10;    Z"/><line class="node-line-" x1="-44.5390625" y1="17" x2="44.5390625" y2="17"/><g class="label" style="" transform="translate(-24.5390625, -12)"><rect/><foreignObject width="49.078125" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: table-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><span class="nodeLabel"><p>Claude</p></span></div></foreignObject></g></g><g class="node mindmap-node section-2" id="node_3" transform="translate(69.703125, 90.20575765063461)"><path id="node-3" class="node-bkg node-0" style="" d="M-54.703125 12&#10;    v-24&#10;    q0,-5 5,-5&#10;    h99.40625&#10;    q5,0 5,5&#10;    v24&#10;    q0,5 -5,5&#10;    h-99.40625&#10;    q-5,0 -5,-5&#10;    Z"/><line class="node-line-" x1="-54.703125" y1="17" x2="54.703125" y2="17"/><g class="label" style="" transform="translate(-34.703125, -12)"><rect/><foreignObject width="69.40625" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: table-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><span class="nodeLabel"><p>DeepSeek</p></span></div></foreignObject></g></g><g class="node mindmap-node section-3" id="node_4" transform="translate(78.4117749870934, 179.17363643490762)"><path id="node-4" class="node-bkg node-0" style="" d="M-45.3515625 12&#10;    v-24&#10;    q0,-5 5,-5&#10;    h80.703125&#10;    q5,0 5,5&#10;    v24&#10;    q0,5 -5,5&#10;    h-80.703125&#10;    q-5,0 -5,-5&#10;    Z"/><line class="node-line-" x1="-45.3515625" y1="17" x2="45.3515625" y2="17"/><g class="label" style="" transform="translate(-25.3515625, -12)"><rect/><foreignObject width="50.703125" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: table-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><span class="nodeLabel"><p>Gemini</p></span></div></foreignObject></g></g><g class="node mindmap-node section-4" id="node_5" transform="translate(176.3187744912442, 238.67081744517463)"><path id="node-5" class="node-bkg node-0" style="" d="M-36.8515625 12&#10;    v-24&#10;    q0,-5 5,-5&#10;    h63.703125&#10;    q5,0 5,5&#10;    v24&#10;    q0,5 -5,5&#10;    h-63.703125&#10;    q-5,0 -5,-5&#10;    Z"/><line class="node-line-" x1="-36.8515625" y1="17" x2="36.8515625" y2="17"/><g class="label" style="" transform="translate(-16.8515625, -12)"><rect/><foreignObject width="33.703125" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: table-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><span class="nodeLabel"><p>Grok</p></span></div></foreignObject></g></g><g class="node mindmap-node section-5" id="node_6" transform="translate(298.69040608668695, 225.83036692625785)"><path id="node-6" class="node-bkg node-0" style="" d="M-35.5625 12&#10;    v-24&#10;    q0,-5 5,-5&#10;    h61.125&#10;    q5,0 5,5&#10;    v24&#10;    q0,5 -5,5&#10;    h-61.125&#10;    q-5,0 -5,-5&#10;    Z"/><line class="node-line-" x1="-35.5625" y1="17" x2="35.5625" y2="17"/><g class="label" style="" transform="translate(-15.5625, -12)"><rect/><foreignObject width="31.125" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: table-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><span class="nodeLabel"><p>Kimi</p></span></div></foreignObject></g></g><g class="node mindmap-node section-6" id="node_7" transform="translate(172.9780652283963, 32)"><path id="node-7" class="node-bkg node-0" style="" d="M-40.09375 12&#10;    v-24&#10;    q0,-5 5,-5&#10;    h70.1875&#10;    q5,0 5,5&#10;    v24&#10;    q0,5 -5,5&#10;    h-70.1875&#10;    q-5,0 -5,-5&#10;    Z"/><line class="node-line-" x1="-40.09375" y1="17" x2="40.09375" y2="17"/><g class="label" style="" transform="translate(-20.09375, -12)"><rect/><foreignObject width="40.1875" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: table-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><span class="nodeLabel"><p>Qwen</p></span></div></foreignObject></g></g></g></g><style xmlns="http://www.w3.org/1999/xhtml" id="__________cytoscape_stylesheet">.__________cytoscape_container { position: relative; }</style><style xmlns="http://www.w3.org/1999/xhtml">
+        :root {
+            --primary: #2c3e50;
+            --primary-light: #34495e;
+            --accent: #8e44ad;
+            --accent-hover: #9b59b6;
+            --success: #27ae60;
+            --success-hover: #229954;
+            --warning: #e67e22;
+            --warning-hover: #d35400;
+            --danger: #e74c3c;
+            --bg: #f4f7f6;
+            --surface: #ffffff;
+            --border: #ddd;
+            --text-primary: #2c3e50;
+            --text-secondary: #7f8c8d;
+            --shadow-sm: 0 2px 4px rgba(0,0,0,0.1);
+            --shadow-md: 0 4px 6px rgba(0,0,0,0.1);
+            --radius: 6px;
+            --transition: 0.2s ease;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text-primary);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        /* Header Styles */
+        header {
+            background: var(--primary);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: var(--shadow-sm);
+            flex-shrink: 0;
+        }
+
+        .brand {
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+
+        .brand span {
+            font-weight: 300;
+            opacity: 0.9;
+        }
+
+        /* Main Layout */
+        .main-container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+            gap: 0;
+        }
+
+        /* Pane Styles */
+        .pane {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .editor-pane {
+            width: 40%;
+            min-width: 320px;
+            max-width: 600px;
+            background: var(--surface);
+            border-inline-end: 2px solid var(--border);
+            padding: 1.25rem;
+            gap: 0.75rem;
+        }
+
+        .preview-pane {
+            flex: 1;
+            background: #fafafa;
+            padding: 1.25rem;
+        }
+
+        /* Form Elements */
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .form-label {
+            font-weight: 600;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.025em;
+        }
+
+        select, textarea, button {
+            font-family: inherit;
+            font-size: 0.9375rem;
+            border-radius: var(--radius);
+            border: 1px solid #bdc3c7;
+            transition: var(--transition);
+        }
+
+        select {
+            padding: 0.625rem 0.875rem;
+            background: var(--surface);
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+            padding-right: 2.5rem;
+        }
+
+        select:focus, textarea:focus, button:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        textarea {
+            flex: 1;
+            font-family: 'Consolas', 'Monaco', 'Fira Code', monospace;
+            font-size: 0.875rem;
+            line-height: 1.6;
+            padding: 0.875rem;
+            resize: vertical;
+            background: #f8f9fa;
+            border: 1px solid #ccc;
+        }
+
+        textarea:focus {
+            background: var(--surface);
+            border-color: var(--accent);
+        }
+
+        /* Button Styles */
+        .btn {
+            padding: 0.625rem 1rem;
+            border: none;
+            border-radius: var(--radius);
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            transition: var(--transition);
+        }
+
+        .btn-primary {
+            background: #3498db;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #2980b9;
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .btn-accent {
+            background: var(--accent);
+            color: white;
+            width: 100%;
+            padding: 0.875rem;
+            font-size: 1rem;
+        }
+
+        .btn-accent:hover {
+            background: var(--accent-hover);
+        }
+
+        .btn-success {
+            background: var(--success);
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: var(--success-hover);
+        }
+
+        .btn-warning {
+            background: var(--warning);
+            color: white;
+        }
+
+        .btn-warning:hover {
+            background: var(--warning-hover);
+        }
+
+        .controls {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        /* Output Area */
+        .output-wrapper {
+            background: var(--surface);
+            border: 1px solid #eee;
+            border-radius: 8px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: auto;
+            position: relative;
+        }
+
+        #render-area {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 1.5rem;
+            min-height: 400px;
+        }
+
+        #render-area svg {
+            max-width: 100%;
+            height: auto;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        /* Status &amp; Error Messages */
+        .status-message {
+            padding: 1rem;
+            border-radius: var(--radius);
+            font-size: 0.875rem;
+            display: none;
+        }
+
+        .status-message.error {
+            display: block;
+            background: #fdeaea;
+            color: var(--danger);
+            border: 1px solid #f5c6cb;
+        }
+
+        .status-message.loading {
+            display: block;
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+
+        /* Responsive */
+        @media (max-width: 968px) {
+            .main-container {
+                flex-direction: column;
+            }
+            .editor-pane {
+                width: 100%;
+                max-width: none;
+                /* max-height: 45vh; */
+                max-height: none;
+                border-inline-end: none;
+                border-block-end: 2px solid var(--border);
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            header, .editor-pane {
+                display: none;
+            }
+            .preview-pane {
+                width: 100%;
+                height: 100vh;
+            }
+        }
+    </style><style>#graph-1774347374553{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#333;}@keyframes edge-animation-frame{from{stroke-dashoffset:0;}}@keyframes dash{to{stroke-dashoffset:0;}}#graph-1774347374553 .edge-animation-slow{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 50s linear infinite;stroke-linecap:round;}#graph-1774347374553 .edge-animation-fast{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 20s linear infinite;stroke-linecap:round;}#graph-1774347374553 .error-icon{fill:#552222;}#graph-1774347374553 .error-text{fill:#552222;stroke:#552222;}#graph-1774347374553 .edge-thickness-normal{stroke-width:1px;}#graph-1774347374553 .edge-thickness-thick{stroke-width:3.5px;}#graph-1774347374553 .edge-pattern-solid{stroke-dasharray:0;}#graph-1774347374553 .edge-thickness-invisible{stroke-width:0;fill:none;}#graph-1774347374553 .edge-pattern-dashed{stroke-dasharray:3;}#graph-1774347374553 .edge-pattern-dotted{stroke-dasharray:2;}#graph-1774347374553 .marker{fill:#333333;stroke:#333333;}#graph-1774347374553 .marker.cross{stroke:#333333;}#graph-1774347374553 svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#graph-1774347374553 p{margin:0;}#graph-1774347374553 .edge{stroke-width:3;}#graph-1774347374553 .section--1 rect,#graph-1774347374553 .section--1 path,#graph-1774347374553 .section--1 circle,#graph-1774347374553 .section--1 polygon,#graph-1774347374553 .section--1 path{fill:hsl(240, 100%, 76.2745098039%);}#graph-1774347374553 .section--1 text{fill:#ffffff;}#graph-1774347374553 .node-icon--1{font-size:40px;color:#ffffff;}#graph-1774347374553 .section-edge--1{stroke:hsl(240, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth--1{stroke-width:17;}#graph-1774347374553 .section--1 line{stroke:hsl(60, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-0 rect,#graph-1774347374553 .section-0 path,#graph-1774347374553 .section-0 circle,#graph-1774347374553 .section-0 polygon,#graph-1774347374553 .section-0 path{fill:hsl(60, 100%, 73.5294117647%);}#graph-1774347374553 .section-0 text{fill:black;}#graph-1774347374553 .node-icon-0{font-size:40px;color:black;}#graph-1774347374553 .section-edge-0{stroke:hsl(60, 100%, 73.5294117647%);}#graph-1774347374553 .edge-depth-0{stroke-width:14;}#graph-1774347374553 .section-0 line{stroke:hsl(240, 100%, 83.5294117647%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-1 rect,#graph-1774347374553 .section-1 path,#graph-1774347374553 .section-1 circle,#graph-1774347374553 .section-1 polygon,#graph-1774347374553 .section-1 path{fill:hsl(80, 100%, 76.2745098039%);}#graph-1774347374553 .section-1 text{fill:black;}#graph-1774347374553 .node-icon-1{font-size:40px;color:black;}#graph-1774347374553 .section-edge-1{stroke:hsl(80, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-1{stroke-width:11;}#graph-1774347374553 .section-1 line{stroke:hsl(260, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-2 rect,#graph-1774347374553 .section-2 path,#graph-1774347374553 .section-2 circle,#graph-1774347374553 .section-2 polygon,#graph-1774347374553 .section-2 path{fill:hsl(270, 100%, 76.2745098039%);}#graph-1774347374553 .section-2 text{fill:#ffffff;}#graph-1774347374553 .node-icon-2{font-size:40px;color:#ffffff;}#graph-1774347374553 .section-edge-2{stroke:hsl(270, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-2{stroke-width:8;}#graph-1774347374553 .section-2 line{stroke:hsl(90, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-3 rect,#graph-1774347374553 .section-3 path,#graph-1774347374553 .section-3 circle,#graph-1774347374553 .section-3 polygon,#graph-1774347374553 .section-3 path{fill:hsl(300, 100%, 76.2745098039%);}#graph-1774347374553 .section-3 text{fill:black;}#graph-1774347374553 .node-icon-3{font-size:40px;color:black;}#graph-1774347374553 .section-edge-3{stroke:hsl(300, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-3{stroke-width:5;}#graph-1774347374553 .section-3 line{stroke:hsl(120, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-4 rect,#graph-1774347374553 .section-4 path,#graph-1774347374553 .section-4 circle,#graph-1774347374553 .section-4 polygon,#graph-1774347374553 .section-4 path{fill:hsl(330, 100%, 76.2745098039%);}#graph-1774347374553 .section-4 text{fill:black;}#graph-1774347374553 .node-icon-4{font-size:40px;color:black;}#graph-1774347374553 .section-edge-4{stroke:hsl(330, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-4{stroke-width:2;}#graph-1774347374553 .section-4 line{stroke:hsl(150, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-5 rect,#graph-1774347374553 .section-5 path,#graph-1774347374553 .section-5 circle,#graph-1774347374553 .section-5 polygon,#graph-1774347374553 .section-5 path{fill:hsl(0, 100%, 76.2745098039%);}#graph-1774347374553 .section-5 text{fill:black;}#graph-1774347374553 .node-icon-5{font-size:40px;color:black;}#graph-1774347374553 .section-edge-5{stroke:hsl(0, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-5{stroke-width:-1;}#graph-1774347374553 .section-5 line{stroke:hsl(180, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-6 rect,#graph-1774347374553 .section-6 path,#graph-1774347374553 .section-6 circle,#graph-1774347374553 .section-6 polygon,#graph-1774347374553 .section-6 path{fill:hsl(30, 100%, 76.2745098039%);}#graph-1774347374553 .section-6 text{fill:black;}#graph-1774347374553 .node-icon-6{font-size:40px;color:black;}#graph-1774347374553 .section-edge-6{stroke:hsl(30, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-6{stroke-width:-4;}#graph-1774347374553 .section-6 line{stroke:hsl(210, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-7 rect,#graph-1774347374553 .section-7 path,#graph-1774347374553 .section-7 circle,#graph-1774347374553 .section-7 polygon,#graph-1774347374553 .section-7 path{fill:hsl(90, 100%, 76.2745098039%);}#graph-1774347374553 .section-7 text{fill:black;}#graph-1774347374553 .node-icon-7{font-size:40px;color:black;}#graph-1774347374553 .section-edge-7{stroke:hsl(90, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-7{stroke-width:-7;}#graph-1774347374553 .section-7 line{stroke:hsl(270, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-8 rect,#graph-1774347374553 .section-8 path,#graph-1774347374553 .section-8 circle,#graph-1774347374553 .section-8 polygon,#graph-1774347374553 .section-8 path{fill:hsl(150, 100%, 76.2745098039%);}#graph-1774347374553 .section-8 text{fill:black;}#graph-1774347374553 .node-icon-8{font-size:40px;color:black;}#graph-1774347374553 .section-edge-8{stroke:hsl(150, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-8{stroke-width:-10;}#graph-1774347374553 .section-8 line{stroke:hsl(330, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-9 rect,#graph-1774347374553 .section-9 path,#graph-1774347374553 .section-9 circle,#graph-1774347374553 .section-9 polygon,#graph-1774347374553 .section-9 path{fill:hsl(180, 100%, 76.2745098039%);}#graph-1774347374553 .section-9 text{fill:black;}#graph-1774347374553 .node-icon-9{font-size:40px;color:black;}#graph-1774347374553 .section-edge-9{stroke:hsl(180, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-9{stroke-width:-13;}#graph-1774347374553 .section-9 line{stroke:hsl(0, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-10 rect,#graph-1774347374553 .section-10 path,#graph-1774347374553 .section-10 circle,#graph-1774347374553 .section-10 polygon,#graph-1774347374553 .section-10 path{fill:hsl(210, 100%, 76.2745098039%);}#graph-1774347374553 .section-10 text{fill:black;}#graph-1774347374553 .node-icon-10{font-size:40px;color:black;}#graph-1774347374553 .section-edge-10{stroke:hsl(210, 100%, 76.2745098039%);}#graph-1774347374553 .edge-depth-10{stroke-width:-16;}#graph-1774347374553 .section-10 line{stroke:hsl(30, 100%, 86.2745098039%);stroke-width:3;}#graph-1774347374553 .disabled,#graph-1774347374553 .disabled circle,#graph-1774347374553 .disabled text{fill:lightgray;}#graph-1774347374553 .disabled text{fill:#efefef;}#graph-1774347374553 .section-root rect,#graph-1774347374553 .section-root path,#graph-1774347374553 .section-root circle,#graph-1774347374553 .section-root polygon{fill:hsl(240, 100%, 46.2745098039%);}#graph-1774347374553 .section-root text{fill:#ffffff;}#graph-1774347374553 .section-root span{color:#ffffff;}#graph-1774347374553 .section-2 span{color:#ffffff;}#graph-1774347374553 .icon-container{height:100%;display:flex;justify-content:center;align-items:center;}#graph-1774347374553 .edge{fill:none;}#graph-1774347374553 .mindmap-node-label{dy:1em;alignment-baseline:middle;text-anchor:middle;dominant-baseline:middle;text-align:center;}#graph-1774347374553 :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}</style><style xmlns="http://www.w3.org/1999/xhtml">#graph-1774345259328{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#333;}@keyframes edge-animation-frame{from{stroke-dashoffset:0;}}@keyframes dash{to{stroke-dashoffset:0;}}#graph-1774345259328 .edge-animation-slow{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 50s linear infinite;stroke-linecap:round;}#graph-1774345259328 .edge-animation-fast{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 20s linear infinite;stroke-linecap:round;}#graph-1774345259328 .error-icon{fill:#552222;}#graph-1774345259328 .error-text{fill:#552222;stroke:#552222;}#graph-1774345259328 .edge-thickness-normal{stroke-width:1px;}#graph-1774345259328 .edge-thickness-thick{stroke-width:3.5px;}#graph-1774345259328 .edge-pattern-solid{stroke-dasharray:0;}#graph-1774345259328 .edge-thickness-invisible{stroke-width:0;fill:none;}#graph-1774345259328 .edge-pattern-dashed{stroke-dasharray:3;}#graph-1774345259328 .edge-pattern-dotted{stroke-dasharray:2;}#graph-1774345259328 .marker{fill:#333333;stroke:#333333;}#graph-1774345259328 .marker.cross{stroke:#333333;}#graph-1774345259328 svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#graph-1774345259328 p{margin:0;}#graph-1774345259328 :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}</style><style xmlns="http://www.w3.org/1999/xhtml">#graph-1774345267750{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#333;}@keyframes edge-animation-frame{from{stroke-dashoffset:0;}}@keyframes dash{to{stroke-dashoffset:0;}}#graph-1774345267750 .edge-animation-slow{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 50s linear infinite;stroke-linecap:round;}#graph-1774345267750 .edge-animation-fast{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 20s linear infinite;stroke-linecap:round;}#graph-1774345267750 .error-icon{fill:#552222;}#graph-1774345267750 .error-text{fill:#552222;stroke:#552222;}#graph-1774345267750 .edge-thickness-normal{stroke-width:1px;}#graph-1774345267750 .edge-thickness-thick{stroke-width:3.5px;}#graph-1774345267750 .edge-pattern-solid{stroke-dasharray:0;}#graph-1774345267750 .edge-thickness-invisible{stroke-width:0;fill:none;}#graph-1774345267750 .edge-pattern-dashed{stroke-dasharray:3;}#graph-1774345267750 .edge-pattern-dotted{stroke-dasharray:2;}#graph-1774345267750 .marker{fill:#333333;stroke:#333333;}#graph-1774345267750 .marker.cross{stroke:#333333;}#graph-1774345267750 svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#graph-1774345267750 p{margin:0;}#graph-1774345267750 :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}</style></svg>

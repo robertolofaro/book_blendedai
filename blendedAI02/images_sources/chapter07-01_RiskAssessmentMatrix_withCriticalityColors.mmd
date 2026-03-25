@@ -1,0 +1,26 @@
+bubblechart
+title Risk Assessment Matrix with Criticality Colors
+x-axis "Impact" 0 --> 10
+y-axis "Likelihood" 0 --> 10
+size-label "Exposure ($M)"
+color-label "Criticality"
+quadrants "Monitor,Review,Urgent,Critical"
+quadrant-xmid 5
+quadrant-ymid 5
+
+colors
+Critical : red
+High : orange
+Medium : yellow
+Low : green
+Informational : blue
+
+data
+System Outage    : 9.2, 9.2,  50, Critical
+Data Breach      : 9.0, 7.5,  80, Critical
+Vendor Failure   : 7.2, 7.8,  30, High
+Regulatory Change: 6.5, 5.5,  25, High
+Staff Turnover   : 5.8, 6.5,  15, Medium
+Budget Variance  : 4.2, 4.8,  10, Medium
+Minor Delay      : 3.5, 3.2,   5, Low
+Documentation    : 2.1, 2.5,   2, Informational

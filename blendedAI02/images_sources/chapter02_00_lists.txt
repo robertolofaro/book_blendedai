@@ -1,0 +1,70 @@
+mindmap
+  root((concept))
+    Online
+      Web-based
+      Android
+    Offline - Android
+        Webui
+        Termux
+          ollama models
+          python app
+    Offline - Ubuntu
+        OpenWebui, Light Webui
+          local
+          web-on-demand
+          agent-online
+        ollama
+          specific models
+          reusing gpt4ll models
+        gpt4all
+          segregated local environment
+          local models
+          local history
+          local knowledge base
+
+Chapter02-01 concept
+mindmap
+  root((concept))
+    Online
+    Offline - Android
+      WebUI in Chrome
+      Termux backend
+    Offline - Ubuntu
+      purely offline
+      online access on demand
+
+Chapter02-02 online
+mindmap
+  root((Online))
+    ChatGPT
+    Claude
+    DeepSeek
+    Gemini
+    Grok
+    Kimi
+    Qwen
+    
+Chapter02-03 android
+mindmap
+  root((android))
+    Webui on Chrome
+    Termux
+      ollama models
+      python app
+      
+Chapter02-04 ubuntu
+mindmap
+  root((ubuntu))
+    OpenWebui, Light Webui
+      local
+      web-on-demand
+      agent-online/offline
+    ollama
+      specific models
+      reusing gpt4ll models
+    gpt4all
+      local models
+      local history
+      local knowledge base
+    python alignment components
+
